@@ -2,7 +2,7 @@ package com.techprimers.jpa.springjpahibernateexample.model;
 
 import javax.persistence.*;
 
-@Table(name = "users_log", catalog = "test")
+@Table(name = "users_log", catalog = "dbtest")
 @Entity
 public class UsersLog {
 
